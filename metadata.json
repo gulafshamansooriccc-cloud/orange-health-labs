@@ -1,0 +1,6 @@
+{
+  "name": "Commonplace",
+  "description": "A curated community platform and editorial social feed for sharing field notes, visual essays, and thoughtful discussions across interest circles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
